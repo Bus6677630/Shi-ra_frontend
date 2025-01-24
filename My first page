@@ -34,12 +34,12 @@ Content-Location: http://localhost:8158/My%20first%20html.html
   <p> 
 
 CSS (Cascading Style Sheets) is a language used to control the visual presentation of HTML elements on a web page. It handles things like layout, colors, fonts, and responsiveness, separating style from content.</p>
-<img src="http://localhost:8158/css_logo.svg.png">
+<img src="css_logo.svg.png">
 <br>
 
 
 
-©copyright
+Â©copyright
 
   
   
@@ -108,7 +108,7 @@ c-text.__c-symbol { color: rgb(111, 89, 172); }
 
 c-text.__c-function { color: rgb(145, 136, 168); font-family: "Courier New", Courier, monospace; font-size: 0.9rem; }
 
-c-text.__c-function::before { content: "ƒ"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
+c-text.__c-function::before { content: "Æ’"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
 
 c-text.__c-object, c-text.__c-undefined { color: rgb(118, 163, 118); }
 
@@ -160,5 +160,5 @@ Content-Location: cid:css-3bbcb301-581a-45d4-9f3a-e82e3b62a860@mhtml.blink
 
 @charset "windows-1252";
 
-h1 { text-align: center; color: green; }
+h1 { text-align: center; color: red; }
 ------MultipartBoundary--grkYCBJv2MUuBePlsA362oWJD6ExGbckYGEHVDmjFg------
